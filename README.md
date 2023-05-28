@@ -8,3 +8,10 @@ Screws on to back of VS case.
 Designed for use with M4x15mm thumb screws https://www.aliexpress.com/item/1005003336588489.html?spm=a2g0o.order_list.order_list_main.267.3fcd18026bTJXy
 
 Test prints were done in laser nylon from JLCPCB
+
+Please remember to give credit where its due.
+
+DISCLAIMER:
+
+I am not responsible for fabrication errors or any damages/injuries when modding your arcade stick.
+
